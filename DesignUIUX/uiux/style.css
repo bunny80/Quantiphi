@@ -1,0 +1,83 @@
+
+.image_slider img{
+    width: 100%;
+    height: 300px;
+}
+.description p{
+    height: 250px;
+    background-color: aqua;
+    margin-bottom: 20px;
+    padding-left: 50px;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 20px;
+    width: 30%;
+    font-style: oblique;
+    display: inline-block;
+}
+.partners{
+    align-items: flex-start;
+    
+}
+.partners h1{
+    text-align: center;
+    
+}
+.partners img{
+    width: 160px;
+    height: 150px;
+    padding: 10px;
+    margin-right: 6%;
+    border-radius: 600px;
+}
+
+.footer{
+    height: 50px ;
+    background-color: beige;
+    
+}
+.footer {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+ footer a {
+    color: #333;
+    display: inline-block;
+  }
+  
+ .footer {
+    bottom: -50px;
+    height: 50px;
+    left: 0;
+    position: absolute;
+    right: 0;
+  }
+.signin{
+    width: 30%;
+    text-align: center;
+    margin: 0% auto;
+    height: 500px;
+    min-width: 200px;
+    background-color: aqua;
+}
+#exampleInputEmail1,#exampleInputPassword1
+{
+    width: 90%;
+    margin: 0% auto;
+
+}
+.window
+{
+    background-color: burlywood;
+    
+}
+body
+{
+    height: 100%;
+}
+.product
+{
+    background-color:burlywood;
+    height: 100%;
+}
